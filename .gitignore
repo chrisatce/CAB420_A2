@@ -3,6 +3,19 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+
+
+
+#### Don't upload the frickin dataset to GitHub
+aeropscapes/
+
+##### the rest of this is just VSCode git ignore gibberish to stop us uploading junk
+
+
+
+
+
+
 # User-specific files
 *.rsuser
 *.suo
