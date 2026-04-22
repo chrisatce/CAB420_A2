@@ -7,7 +7,7 @@
 
 
 #### Don't upload the frickin dataset to GitHub
-aeropscapes/
+#aeroscapes/*
 
 ##### the rest of this is just VSCode git ignore gibberish to stop us uploading junk
 
