@@ -8,6 +8,7 @@
 
 #### Don't upload the frickin dataset to GitHub
 aeroscapes/*
+dd-ml-segmentation-benchmark/*
 
 ##### the rest of this is just VSCode git ignore gibberish to stop us uploading junk
 
